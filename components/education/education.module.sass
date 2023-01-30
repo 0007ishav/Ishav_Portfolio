@@ -1,0 +1,19 @@
+.education
+    position: relative
+    .univ_logo
+        display: flex
+        justify-content: center
+        align-items: center
+    .app_section
+        &::after
+            content: 'Education'!important
+
+    .left_list
+        .social_list_item
+            &:hover
+                .social_link
+                        transform: translateY(-5px) !important
+    .right_list
+        .social_link
+            text-align: left
+            writing-mode: tb

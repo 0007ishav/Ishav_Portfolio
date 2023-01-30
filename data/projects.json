@@ -1,0 +1,36 @@
+[
+  {
+    "index": 3,
+    "title": "Netflix React Clone",
+    "tools": [
+      "ReactJs",
+      "Redux",
+      "Bootstrap",
+      "Sass",
+      "SwiperJs",
+      "TMDB",
+      "2embed"
+    ],
+    "live_preview": "https://netflix-mmm066550.netlify.app",
+    
+    "thubmnail": "/assets/images/projects/netflix.png",
+    "overview": "📽🍿 Netflix React Clone is a cloned single page application of Netflix website using ReactJS and ReduxJs for state management "
+  },
+ 
+  {
+    "index": 2,
+    "title": "Spotify Music Clone",
+    "tools": [
+      "NextJs",
+      "ReactJs",
+      "Bootstrap",
+      "Sass",
+      "SpotifyApi",
+      "spotifySDK"
+    ],
+    "live_preview": "https://spotify-nextjs.netlify.app",
+    
+    "thubmnail": "/assets/images/projects/spotify-dark.png",
+    "overview": "🎧🎵 Spotify clone app using spotify api and spotify SDK with React.js, Next.js and Redux"
+  }
+]
